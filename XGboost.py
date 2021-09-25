@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 harmo_names = ['Datetime', 'Voltage', 'label', 'Current', 'Cos_teta', 'Power_faktor', 'Active_power', 'Reactive_power', 'Apparent_power', 
               'HI1', 'HI3', 'HI5', 'HI7', 'HI9', 'HI11', 'HI13', 'HI15', 'HI17', 'HI19', 'HI21', 'HI23', 'HI25', 'HI27', 'HI29', 'HI31']
 
-harmo_data = pd.read_csv('data 3-1.csv', names = harmo_names)
+harmo_data = pd.read_csv('DATA TA2.csv', names = harmo_names)
 harmo_df = pd.DataFrame(harmo_data)
 
 harmo_data.head()

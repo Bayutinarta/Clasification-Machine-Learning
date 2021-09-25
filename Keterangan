@@ -1,0 +1,9 @@
+Judul : Identifikasi bedan listrik dari sinyal harmonisa 
+
+batasan masalah :
+menggunakan 4 beban yang berbeda 
+pengambilan data menggunakan power mater EMG 25 
+data harmonik yang digunakan adalah harmonik arus
+Proses dilakukan di Raspberry pi 3
+
+alat : EMG 25, Raspberry pi3, Current Transformer dan Modbus RS485 to USB
